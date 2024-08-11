@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+p{
+    width: 400px;
+    height: 200px;
+    background-color: aquamarine;
+    color: royalblue;  
+    border: 10px solid;
+}
+
+/* span{ */
+    /* width: 10px;
+    margin: 1px  ;
+    padding: 2px; */
+/* } */
